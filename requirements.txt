@@ -4,3 +4,5 @@ sqlalchemy
 psycopg2
 ipython
 python-decouple
+requests
+alembic
