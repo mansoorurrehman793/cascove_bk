@@ -1,0 +1,6 @@
+# pip install -r requirements.txt
+fastapi
+sqlalchemy
+psycopg2
+ipython
+python-decouple
